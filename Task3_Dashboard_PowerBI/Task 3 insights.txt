@@ -1,0 +1,4 @@
+1.Month-to-month contracts have highest churn
+2.High charges customers churn more
+3.Low tenure customers leave quickly
+4.Long-term contracts reduce churn
